@@ -1,5 +1,3 @@
-<div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Python_OOP" />
 
   &#xa0;
 
@@ -15,7 +13,6 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/anoliveisolcap/python_oop?color=1f425f">
 
-  <img alt="License" src="https://img.shields.io/github/license/anoliveisolcap/python_oop?color=1f425f">
 
 </p>
 
